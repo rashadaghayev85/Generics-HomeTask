@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\bin\Debug\net6.0\Generics-HomeTask.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\bin\Debug\net6.0\Generics-HomeTask.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\bin\Debug\net6.0\Generics-HomeTask.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\bin\Debug\net6.0\Generics-HomeTask.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\bin\Debug\net6.0\Generics-HomeTask.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\obj\Debug\net6.0\Generics-HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\obj\Debug\net6.0\Generics-HomeTask.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\obj\Debug\net6.0\Generics-HomeTask.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\obj\Debug\net6.0\Generics-HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\obj\Debug\net6.0\Generics-HomeTask.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\obj\Debug\net6.0\refint\Generics-HomeTask.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\obj\Debug\net6.0\Generics-HomeTask.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\obj\Debug\net6.0\Generics-HomeTask.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Generics-HomeTask\Generics-HomeTask\obj\Debug\net6.0\ref\Generics-HomeTask.dll
