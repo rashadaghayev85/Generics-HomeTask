@@ -54,13 +54,8 @@ namespace Generics_HomeTask
                 }
                 
             }
-           // stringArray=arr;
+          
             return arr;
         }
     }
 }
-//stringArray[i] = string.Empty;
-
-// Array.Resize(ref stringArray, stringArray.Length -1 );
-
-//stringArray[stringArray.Length - (1-i)].Remove(1);
