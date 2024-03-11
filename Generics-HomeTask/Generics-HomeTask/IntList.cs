@@ -56,7 +56,7 @@ namespace Generics_HomeTask
                 }
 
             }
-            // stringArray=arr;
+            
             return arr;
         }
 
